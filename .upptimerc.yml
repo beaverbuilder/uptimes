@@ -4,7 +4,7 @@ repo: uptimes # The name of this repository
 
 notifications:
   - type: slack
-    channel: C031Q6TE6NM
+    channel: uptime-alerts
 
 sites:
   - name: Beaver Builder
