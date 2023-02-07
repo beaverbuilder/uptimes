@@ -16,6 +16,10 @@ sites:
     url: https://docs.wpbeaverbuilder.com/
   - name: Demo
     url: https://demo.wpbeaverbuilder.com/
+  - name: Hooks
+    url: https://hooks.wpbeaverbuilder.com/
+  - name: Translate
+    url: https://translate.wpbeaverbuilder.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
