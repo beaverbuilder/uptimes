@@ -132,19 +132,19 @@
     "url": "https://translate.wpbeaverbuilder.com/",
     "icon": "https://icons.duckduckgo.com/ip3/translate.wpbeaverbuilder.com.ico",
     "slug": "translate",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 337,
-    "timeDay": 282,
-    "timeWeek": 337,
-    "timeMonth": 337,
-    "timeYear": 337,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 341,
+    "timeDay": 304,
+    "timeWeek": 341,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2023-02-12": 19
+      "2023-02-12": 38
     }
   }
 ]
