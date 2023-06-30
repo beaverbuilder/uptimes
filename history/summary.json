@@ -58,19 +58,19 @@
     "url": "https://community.wpbeaverbuilder.com/",
     "icon": "https://icons.duckduckgo.com/ip3/community.wpbeaverbuilder.com.ico",
     "slug": "forums",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 272,
-    "timeWeek": 244,
-    "timeMonth": 248,
-    "timeYear": 252,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 253,
+    "timeDay": 328,
+    "timeWeek": 266,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-06-30": 0
+      "2023-06-30": 47
     }
   },
   {
