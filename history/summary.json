@@ -171,19 +171,19 @@
     "url": "https://updates.wpbeaverbuilder.com/",
     "icon": "https://icons.duckduckgo.com/ip3/updates.wpbeaverbuilder.com.ico",
     "slug": "updates",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 165,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 314,
+    "timeDay": 145,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-04-25": 0
+      "2024-04-25": 9
     }
   }
 ]
