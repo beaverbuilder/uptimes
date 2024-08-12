@@ -40,18 +40,20 @@
     "url": "https://api.assistant.pro/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.assistant.pro.ico",
     "slug": "assistant-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 286,
-    "timeWeek": 289,
-    "timeMonth": 295,
+    "timeDay": 241,
+    "timeWeek": 278,
+    "timeMonth": 292,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-12": 0
+    }
   },
   {
     "name": "Forums",
