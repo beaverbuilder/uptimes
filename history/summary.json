@@ -40,19 +40,19 @@
     "url": "https://api.assistant.pro/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.assistant.pro.ico",
     "slug": "assistant-api",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 241,
-    "timeWeek": 278,
-    "timeMonth": 292,
+    "timeDay": 271,
+    "timeWeek": 284,
+    "timeMonth": 293,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-08-12": 0
+      "2024-08-12": 10
     }
   },
   {
