@@ -50,7 +50,7 @@
     "timeDay": 265,
     "timeWeek": 200,
     "timeMonth": 227,
-    "timeYear": 253,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -92,7 +92,7 @@
     "time": 143,
     "timeDay": 253,
     "timeWeek": 171,
-    "timeMonth": 171,
+    "timeMonth": 172,
     "timeYear": 137,
     "dailyMinutesDown": {}
   },
@@ -101,18 +101,20 @@
     "url": "https://demo.wpbeaverbuilder.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.wpbeaverbuilder.com.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 289,
-    "timeWeek": 256,
-    "timeMonth": 253,
+    "timeDay": 215,
+    "timeWeek": 242,
+    "timeMonth": 251,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 0
+    }
   },
   {
     "name": "Hooks",
@@ -128,8 +130,8 @@
     "time": 1959,
     "timeDay": 1390,
     "timeWeek": 1643,
-    "timeMonth": 1608,
-    "timeYear": 1970,
+    "timeMonth": 1607,
+    "timeYear": 1971,
     "dailyMinutesDown": {
       "2024-11-04": 880,
       "2024-11-03": 1440,
@@ -152,12 +154,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.32%",
     "time": 565,
     "timeDay": 517,
     "timeWeek": 580,
-    "timeMonth": 575,
-    "timeYear": 565,
+    "timeMonth": 577,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2024-11-01": 20,
       "2024-09-02": 53,
@@ -184,7 +186,7 @@
     "time": 224,
     "timeDay": 167,
     "timeWeek": 148,
-    "timeMonth": 148,
+    "timeMonth": 149,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2024-04-28": 16
