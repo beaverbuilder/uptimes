@@ -103,18 +103,16 @@
     "slug": "demo",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 161,
     "timeWeek": 230,
     "timeMonth": 246,
     "timeYear": 230,
-    "dailyMinutesDown": {
-      "2024-11-06": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hooks",
@@ -150,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.wpbeaverbuilder.com.ico",
     "slug": "translate",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
