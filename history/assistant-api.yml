@@ -1,7 +1,7 @@
 url: https://api.assistant.pro/api/status
-status: up
-code: 200
-responseTime: 240
-lastUpdated: 2025-03-02T23:16:13.966Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2025-03-03T17:41:29.077Z
 startTime: 2023-02-07T17:08:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
