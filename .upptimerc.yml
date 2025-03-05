@@ -7,30 +7,13 @@ notifications:
     channel: uptime-alerts
 
 sites:
-  - name: Beaver Builder
-    url: https://www.wpbeaverbuilder.com/
-  - name: Assistant
-    url: https://assistant.pro
-  - name: Assistant API
-    url: https://api.assistant.pro/api/status
-    __dangerous__body_degraded_if_text_missing: '{"success":true}'
-  - name: Forums
-    url: https://community.wpbeaverbuilder.com/
-  - name: Docs
-    url: https://docs.wpbeaverbuilder.com/
-  - name: Demo
-    url: https://demo.wpbeaverbuilder.com/
-  - name: Hooks
-    url: https://hooks.wpbeaverbuilder.com/
-  - name: Translate
-    url: https://translate.wpbeaverbuilder.com/
-  - name: Updates
-    url: https://updates.wpbeaverbuilder.com/
+  - name: Beaver Builder Status Site
+    url: https://status.wpbeaverbuilder.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.wpbeaverbuilder.com
+  #cname: status.wpbeaverbuilder.com
   #baseUrl: /uptimes
   logoUrl: https://raw.githubusercontent.com/beaverbuilder/uptimes/master/assets/upptime-icon.svg
   name: Beaver Status
