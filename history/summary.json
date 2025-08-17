@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.wpbeaverbuilder.com.ico",
     "slug": "beaver-builder-status-site",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.97%",
-    "time": 234,
-    "timeDay": 183,
-    "timeWeek": 244,
-    "timeMonth": 241,
-    "timeYear": 234,
+    "uptimeYear": "99.98%",
+    "time": 233,
+    "timeDay": 176,
+    "timeWeek": 236,
+    "timeMonth": 240,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2025-08-12": 59
     }
