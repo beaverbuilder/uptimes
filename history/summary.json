@@ -6,17 +6,16 @@
     "slug": "beaver-builder-status-site",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 241,
     "timeDay": 644,
     "timeWeek": 393,
-    "timeMonth": 257,
+    "timeMonth": 259,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-08-25": 3,
       "2025-08-12": 59
     }
   }
