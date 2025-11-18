@@ -4,18 +4,19 @@
     "url": "https://status.wpbeaverbuilder.com/",
     "icon": "https://icons.duckduckgo.com/ip3/status.wpbeaverbuilder.com.ico",
     "slug": "beaver-builder-status-site",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.96%",
     "time": 238,
-    "timeDay": 232,
-    "timeWeek": 224,
+    "timeDay": 229,
+    "timeWeek": 223,
     "timeMonth": 244,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2025-11-18": 93,
       "2025-08-12": 59
     }
   }
